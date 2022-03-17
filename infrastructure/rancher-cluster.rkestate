@@ -3,7 +3,7 @@
     "rkeConfig": {
       "nodes": [
         {
-          "address": "44.192.129.138",
+          "address": "100.27.8.76",
           "port": "22",
           "internalAddress": "172.31.6.253",
           "role": [
@@ -11,7 +11,7 @@
             "etcd",
             "worker"
           ],
-          "hostnameOverride": "44.192.129.138",
+          "hostnameOverride": "100.27.8.76",
           "user": "ubuntu",
           "sshKeyPath": "~/.ssh/call-rancher.pem"
         }
