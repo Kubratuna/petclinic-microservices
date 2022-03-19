@@ -11,7 +11,7 @@
             "etcd",
             "worker"
           ],
-          "hostnameOverride": "44.192.129.138",
+          "hostnameOverride": "172.31.6.253",
           "user": "ubuntu",
           "sshKeyPath": "~/.ssh/call-rancher.pem"
         }
