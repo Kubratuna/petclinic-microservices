@@ -1,5 +1,5 @@
 nodes:
-  - address: 44.192.129.138
+  - address: 44.201.22.172
     internal_address: 172.31.6.253
     user: ubuntu
     role:
