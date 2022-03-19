@@ -1,5 +1,9 @@
 nodes:
+<<<<<<< HEAD
   - address: 44.201.22.172
+=======
+  - address: 172.31.6.253
+>>>>>>> feature/msp-22
     internal_address: 172.31.6.253
     user: ubuntu
     role:
